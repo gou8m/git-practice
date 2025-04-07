@@ -1,1 +1,1 @@
-print("this is practice git session")
+print("welcome to git practice session")
